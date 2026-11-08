@@ -1,0 +1,125 @@
+{
+  "item": {
+    "id": "com.skillman.english",
+    "restype": "quick_app",
+    "name": "百词斩",
+    "description": "把单词学习装进手腕\n一款为手环和手表设计的背单词应用。词书内置，无需登录或导入，抬起手腕就能学习和复习。\n✔丰富词书：涵盖中考、高考、四六级和考研，去重后共 7,420 个词条。\n✔自定义计划：设置每天的新词数量，按自己的节奏学习。\n✔回忆与复习：先回忆词义，再根据记忆情况评价，逐步巩固单词。\n✔生词收藏：标记重点单词，随时回看。\n✔学习记录：通过统计和日历查看学习进度。\n✔舒适阅读：支持调整文字大小、开关音标。\n\n词书\t  词条数\t通用高频词条数\n中考\t  1,603\t1,281\n高考\t  3,677\t2,106\n四级\t  3,847\t1,738\n六级\t  5,803\t1,836\n考研\t  4,801\t1,698",
+    "preview": [
+      "media/9Pro-2026-11-05-22-56-10.png",
+      "media/9Pro-2026-11-05-22-56-18.png",
+      "media/9Pro-2026-11-05-22-56-23.png",
+      "media/9Pro-2026-11-05-22-56-40.png",
+      "media/9Pro-2026-11-05-22-56-46.png",
+      "media/9Pro-2026-11-05-23-01-34.png",
+      "media/9Pro-2026-11-06-09-19-01.png",
+      "media/9Pro-2026-11-06-09-19-06.png",
+      "media/9Pro-2026-11-06-09-19-14.png",
+      "media/9Pro-2026-11-06-09-19-19.png",
+      "media/9Pro-2026-11-06-09-19-23.png",
+      "media/m9-2026-11-06-09-31-51.png",
+      "media/m9-2026-11-06-09-32-47.png",
+      "media/m9-2026-11-06-09-32-52.png",
+      "media/s4-2026-11-06-09-24-10.png",
+      "media/s4-2026-11-06-09-24-53.png",
+      "media/s4-2026-11-06-09-26-58.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/分组_10 (1).png",
+    "author": [
+      {
+        "name": "SkillMan",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "爱发电购买链接",
+      "url": "https://ifdian.net/item/d6f610ded98f11f185265254001e7c00",
+      "icon": "globe"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/百词斩1.0.0(红米56).rpk",
+      "versionCode": 1
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/百词斩1.0.0(红米56).rpk",
+      "versionCode": 1
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/百词斩1.0.0(红米56).rpk",
+      "versionCode": 1
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/百词斩1.0.0(米环10米环11).rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/百词斩1.0.0(米环10米环11).rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/百词斩1.0.0(米环9Pro米环10Pro).rpk",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/百词斩1.0.0(米环10米环11).rpk",
+      "versionCode": 1
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/百词斩1.0.0(米环10米环11).rpk",
+      "versionCode": 1
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/百词斩1.0.0(米环9).rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/百词斩1.0.0(米环9Pro米环10Pro).rpk",
+      "versionCode": 1
+    },
+    "xmws3": {
+      "version": "1.0.0",
+      "file_name": "downloads/百词斩1.0.0(米表S345).rpk",
+      "versionCode": 1
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/百词斩1.0.0(米表S345).rpk",
+      "versionCode": 1
+    },
+    "xmws441": {
+      "version": "1.0.0",
+      "file_name": "downloads/百词斩1.0.0(米表S345).rpk",
+      "versionCode": 1
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "downloads/百词斩1.0.0(米表S345).rpk",
+      "versionCode": 1
+    },
+    "xmws541": {
+      "version": "1.0.0",
+      "file_name": "downloads/百词斩1.0.0(米表S345).rpk",
+      "versionCode": 1
+    },
+    "xmws5": {
+      "version": "1.0.0",
+      "file_name": "downloads/百词斩1.0.0(米表S345).rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
